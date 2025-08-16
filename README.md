@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Andrew Matelis
 
-<!--
-**AMatelis/AMatelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student passionate about coding deep learning models for disease detection, with a special interest in biomedical AI. My most impressive project so far is developing a deep learning model to analyze blood flow velocity using speckle imaging.
 
-Here are some ideas to get you started:
+I’m planning to compete in science competitions like ISEF and JSHS in the upcoming school year to further explore my research interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Projects
+- Deep learning model for blood flow velocity analysis (speckle imaging)
+
+## 🎸 Hobbies
+- Playing electrical bass
+- Skiing
+
+## 🌐 Find Me Online
+- [Personal Website](https://andrew-matelis.carrd.co/)
+- [LinkedIn](https://www.linkedin.com/in/andrew-matelis-b550a8358/)
+
+---
+
+*I am always looking to collaborate on exciting biomedical AI projects or connect with others in the field!*

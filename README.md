@@ -7,6 +7,7 @@ I’m planning to compete in science competitions like ISEF and JSHS in the upco
 ## Projects
 - Deep learning model for blood flow velocity analysis (speckle imaging)
 - Deep learning model for compound reaction predictions
+- Deep learning model for Pnemonia Detection with Open-Sourced Data 
 
 ## Hobbies
 - Playing electrical bass

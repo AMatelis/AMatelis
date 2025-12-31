@@ -17,6 +17,5 @@ I’m planning to compete in science competitions like ISEF and JSHS in the upco
 - [Personal Website](https://andrew-matelis.carrd.co/)
 - [LinkedIn](https://www.linkedin.com/in/andrew-matelis-b550a8358/)
 
----
 
 *I am always looking to collaborate on exciting biomedical AI projects or connect with others in the field!*
